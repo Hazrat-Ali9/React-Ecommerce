@@ -1,0 +1,82 @@
+[
+    {
+
+       
+        "name": "Macbook Pro",
+        "description": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/5fd00ea644cd62376ce2b6c1/In-this-photo-illustration-a-13inch-Macbook-pro-seen---/960x0.jpg?height=474&width=711&fit=bounds",
+        "category": "laptop",
+        "price": 260
+    },
+    {
+        
+        "name": "Macbook Air 2023",
+        "description": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+        "image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2023/06/Best-MacBook-1-920x518.jpg",
+        "category": "laptop",
+        "price": 200
+    },
+    {
+     
+        "name": "Hp 1040 G3",
+        "description": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "https://www.cnet.com/a/img/resize/6c5477a1e132842c60136989c784ef0ca300a888/hub/2023/08/15/f511b8a1-6be3-498e-afed-3e4e0331c3e5/hp-pavilion-aero-2023-01.jpg?auto=webp&fit=crop&height=360&width=640",
+        "category": "laptop",
+        "price": 170
+    },
+    {
+        
+        "name": "Iphone 15",
+        "description": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "https://www.connexionblog.com/wp-content/uploads/2023/07/iPhone-15-will-be-launched-in-new-color-know-launch.jpg",
+        "category": "phone",
+        "price": 140
+    },
+    {
+        
+        "name": "Samsung Fold",
+        "description": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "https://cdn.mos.cms.futurecdn.net/fT9Xs4bEpyBSyPAdj5rH7V-1200-80.jpg",
+        "category": "phone",
+        "price": 120
+    },
+    {
+       
+        "name": "Iphone 14 pro",
+        "description": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2022/10/iphone14productshots-1-1.jpeg",
+        "category": "phone",
+        "price": 125
+    },
+    {
+     
+        "name": "Cannon 700d",
+        "description": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "https://cdn.mos.cms.futurecdn.net/SjqdBFemaFnMp3xbKgMYKY.jpg",
+        "category": "camera",
+        "price": 130
+    },
+    {
+       
+        "name": "Sony l5D",
+        "description": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
+        "image": "https://image.shopmoment.com/cdn-cgi/image/q=75,dpr=1,f=webp,w=1536,h=864,fit=cover,g=0.5x0.5/https://image.shopmoment.com/general/momentist/Sony-A7Siii-43.jpg",
+        "category": "camera",
+        "price": 190
+    },
+    {
+       
+        "name": "Sony Ultra Pro",
+        "description": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "https://www.colbybrownphotography.com/wp-content/uploads/2021/03/The-Complete-Setup-Guide-to-the-Sony-A1-Mirrorless-Camera-1024x683.jpg",
+        "category": "Camera",
+        "price": 155
+    },
+    {
+        "name": "Samsung s 21 Ultra",
+        "description": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "https://img.phonandroid.com/2021/01/Samsung-Galaxy-S21-Ultra-et-sa-boite-01.jpg",
+        "category": "phone",
+        "price": 140
+    }
+]
